@@ -28,14 +28,6 @@ Se genera un programa que logre descubrir la contraseña indicada por el usuario
   - El programa ingresa a la variable y va descubriendo el valor y orden de cada caracter de la contraseña.
 
 
-## Diagrama de flujo
-
-![filtro compacto|50](/img/filtro_compacto.jpg)
-
-![primeros auxilios|50](/img/primeros_auxilios.jpg)
-
-![fuerza bruta|50](/img/fuerza_bruta.jpg)
-
 ## Prerrequisitos o Dependencias
 
 Lista de software y herramientas, incluyendo versiones, que necesitas para instalar y ejecutar este proyecto:
